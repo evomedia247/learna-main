@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "learna-website"
+  },
+  "targets": {
+    "learna-website": {
+      "hosting": {
+        "production": [
+          "learna-website"
+        ],
+        "staging": [
+          "learna-staging"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+User-Agent: *
+
+Allow: /
+
+Sitemap: https://www.learna.ac.uk/sitemap.xml
+
